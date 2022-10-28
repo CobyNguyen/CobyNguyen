@@ -1,5 +1,7 @@
 @CobyNguyen
+
 I’m interested in coding in Python to learn it and learning C
+
 I’m currently learning Python. Next year I will be taking a Java course though
 
 <!---
