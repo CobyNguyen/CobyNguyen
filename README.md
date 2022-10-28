@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CobyNguyen
-- 👀 I’m interested in coding in Python to learn it and learning a language in the C family
-- 🌱 I’m currently learning Python
+@CobyNguyen
+I’m interested in coding in Python to learn it and learning C
+I’m currently learning Python. Next year I will be taking a Java course though
 
 <!---
 CobyNguyen/CobyNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
