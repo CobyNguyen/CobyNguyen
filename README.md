@@ -1,6 +1,6 @@
 @CobyNguyen
 
-I’m interested in coding in Python to learn it and learning C
+I’m interested in Python to learn it and learning C so I can have exerience with a "lower level" language. 
 
 I’m currently learning Python. Next year I will be taking a Java course though
 
