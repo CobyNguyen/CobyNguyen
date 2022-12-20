@@ -8,7 +8,7 @@ I love programming, just like everybody else here of course. I want to be able t
 
 I am interested in full stack web development, cybersecurity, and programming applications
 
-###Languages I would like to learn
+### Languages I would like to learn
 - Python
 - JavaScript (and web development with HTML and CSS)
 - Rust
