@@ -9,15 +9,11 @@ I love programming, just like everybody else here of course. I want to be able t
 I am interested in full stack web development, cybersecurity, and programming applications
 
 ### Languages I would like to learn
-- Python
+- Python (and Djangon framework)
 - JavaScript (and web development with HTML and CSS)
 - Rust
 - C++
-- C
 - Haskell
-- SQL
-- PHP
-- Java
 
 <!---
 CobyNguyen/CobyNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
