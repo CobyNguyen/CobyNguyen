@@ -1,12 +1,12 @@
 @CobyNguyen
 
-## I am interested in Python, Rust, and JavaScript.
+## I am interested in Python, Rust, JavaScript, and electrical engineering.
 
-Currently learning Python. 
+Currently learning Python. I am a beginner in everything, but I have a strong drive and passion for learning new technologies and skills.
 
-I love programming, just like everybody else here of course. I want to be able to program at least hello world in many different languages and just have an understanding of many programming languages and how they work (compilers, interpreters, standards).
+I love programming, just like everybody else here of course. I want to be able to program at least hello world in many different languages and just have an understanding of many programming languages and how they work (compilers, interpreters, standards). 
 
-I am interested in full stack web development, cybersecurity, and programming applications
+I also am interested in pursuing full stack web development, cybersecurity, and electrical engineering for my future career.
 
 ### Languages I would like to learn
 - Python (and Flask framework)
