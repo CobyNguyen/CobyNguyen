@@ -1,6 +1,6 @@
 @CobyNguyen
 
-## I am interested in Python, C++, JavaScript, and electrical engineering.
+## I am interested in C++, and electrical engineering.
 
 Currently learning C++ in university. I am a beginner in everything, but I have a strong drive and passion for learning new technologies and skills.
 
@@ -9,9 +9,12 @@ I love programming, just like everybody else here of course. I want to be able t
 I also am interested in pursuing VLSI as a system engineer. I want to optimize performance and energy usage in technology.
 
 ### Languages I would like to learn
+- C++
 - Python (and Flask framework)
 - JavaScript (and web development with HTML and CSS)
-- C++
+- GDScript/Godot Engine
+- C#
+
 
 <!---
 CobyNguyen/CobyNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
