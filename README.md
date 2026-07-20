@@ -1,19 +1,19 @@
 @CobyNguyen
 
-## I am interested in C++, and electrical engineering.
+## I am interested in C++, and computer engineering.
 
 Currently learning C++ in university. I am a beginner in everything, but I have a strong drive and passion for learning new technologies and skills.
 
-I love programming, just like everybody else here of course. I want to be able to program at least hello world in many different languages and just have an understanding of many programming languages and how they work (compilers, interpreters, standards). 
+I love programming, just like everybody else here of course. I am also interested in making things in the physical world through programming and devices.
 
 I also am interested in pursuing VLSI as a system engineer. I want to optimize performance and energy usage in technology.
 
 ### Languages I would like to learn
 - C++
 - Python (and Flask framework)
-- JavaScript (and web development with HTML and CSS)
 - GDScript/Godot Engine
-- C#
+- C
+- JavaScript (and web development with HTML and CSS)
 
 
 <!---
