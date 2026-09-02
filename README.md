@@ -12,7 +12,6 @@ I also am interested in pursuing VLSI as a system engineer. I want to optimize p
 - C++
 - Python (and Flask framework)
 - GDScript/Godot Engine
-- C
 - JavaScript (and web development with HTML and CSS)
 
 
