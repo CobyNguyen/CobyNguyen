@@ -2,7 +2,7 @@
 
 ## I am interested in C++, and computer engineering.
 
-Currently learning C++ in university. I am a beginner in everything, but I have a strong drive and passion for learning new technologies and skills.
+Currently learning C++ in university. I am a beginner in everything, but I have a strong drive and passion for learning new technologies and skills. I am also maintaining a personal homelab server, where I mainly archive ASMR audio files.
 
 I love programming, just like everybody else here of course. I am also interested in making things in the physical world through programming and devices.
 
